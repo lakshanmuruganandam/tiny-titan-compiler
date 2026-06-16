@@ -60,3 +60,7 @@ python app.py
   <b>Built by:</b> <a href="https://huggingface.co/LADDOO22212015">LADDOO22212015</a><br>
   <i>Forging the absolute future of open-source autonomous agents.</i>
 </div>
+
+
+### 🧠 Preferred Model
+> `Qwen/CodeQwen1.5-7B-Chat` — High-accuracy code generation and software engineering.
